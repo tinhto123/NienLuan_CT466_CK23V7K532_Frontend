@@ -11,7 +11,7 @@
 ### 1. Cài đặt dependencies
 
 ```bash
-npm install
+yarn install
 ```
 
 ### 2. Tạo file cấu hình môi trường
@@ -21,13 +21,13 @@ Tạo file `.env` (nếu cần) để cấu hình các biến môi trường nh�
 ### 3. Chạy dự án ở chế độ phát triển
 
 ```bash
-npm run dev
+yarn run dev
 ```
 
 ### 4. Build dự án
 
 ```bash
-npm run build
+yarn run build
 ```
 
 ---
