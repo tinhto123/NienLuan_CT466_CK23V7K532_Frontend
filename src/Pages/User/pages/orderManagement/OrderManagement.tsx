@@ -8,8 +8,7 @@ import { useTranslation } from 'react-i18next'
 const orderTabs = [
   { status: 'all', name: 'all' },
   { status: 0, name: 'waiting_for_confirmation' },
-  { status: 1, name: 'received' },
-  { status: 2, name: 'cancelled' }
+  { status: 1, name: 'received' }
 ]
 
 export default function OrderManagement() {

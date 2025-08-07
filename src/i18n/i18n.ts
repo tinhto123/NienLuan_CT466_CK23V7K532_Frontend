@@ -118,6 +118,7 @@ const resources = {
       enter_new_password: 'Enter new password',
       confirm_password: 'Confirm Password',
       re_enter_password: 'Re-enter password',
+      enter_confirm_password: 'Enter confirm password',
       save: 'Save',
       approve_all_orders: 'Approve All Orders',
       approve_order: 'Approve Order',
@@ -218,11 +219,11 @@ const resources = {
       approve_order_success: 'Đã duyệt đơn hàng thành công!',
       approve_all_error: 'Lỗi khi duyệt tất cả đơn hàng',
       approve_order_error: 'Lỗi khi duyệt đơn hàng',
-       confirm: 'Xác nhận',
-       success: 'Thành công',
-       error: 'Lỗi',
-       ok: 'Đồng ý',
-       no_products: 'Chưa có sản phẩm nào',
+      confirm: 'Xác nhận',
+      success: 'Thành công',
+      error: 'Lỗi',
+      ok: 'Đồng ý',
+      no_products: 'Chưa có sản phẩm nào',
       status: 'Trạng thái',
       operations: 'Thao tác',
       order_management_title: 'Quản lý đơn hàng',
@@ -261,7 +262,8 @@ const resources = {
       enter_new_password: 'Nhập vào mật khẩu mới',
       confirm_password: 'Nhập Lại Mật Khẩu',
       re_enter_password: 'Nhập lại mật khẩu',
-      save: 'Lưu'
+      save: 'Lưu',
+      enter_confirm_password: 'Nhập lại mật khẩu mới'
     }
   }
 }

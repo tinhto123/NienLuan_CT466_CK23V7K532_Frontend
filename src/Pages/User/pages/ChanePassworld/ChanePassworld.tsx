@@ -61,7 +61,6 @@ export default function ChanePassworld() {
     <div className='rounded-sm bg-white px-2 pb-10 shadow md:px-7 md:pb-20'>
       <div className='border-b border-b-gray-200 py-6'>
         <h1 className='text-lg font-medium capitalize text-gray-900'>{t('change_password_title')}</h1>
-        <div className='mt-1 text-sm text-gray-700'>{t('change_password_description')}</div>
       </div>
       <form className='mr-auto mt-8 max-w-2xl' onSubmit={onSubmit}>
         <div className='mt-6 flex-grow md:mt-0 md:pr-12'>
